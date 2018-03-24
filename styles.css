@@ -1,7 +1,8 @@
-img {width = 200px;}
+img {width: 200px;}
 body {
     text-align: center; 
     font-family:"Arial";
-    background:purple;
-    color:azure;
+    font-size: small;
+    background:red;
+    color:aqua;
     }
